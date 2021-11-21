@@ -3,10 +3,10 @@
 Contact: chloe.braud@irit.fr
 
 Current schedule:
-* S47 23.11 13h30-15h30 : ML reminder - TP Sentiment analysis with ScikitLearn
-* S48 30.11 13h30-15h30  
-* S49 07.12 13h30-16h30 (3H) 
-* S50 14.12 13h30-16h30 (3H)
+* S47 - 23.11 13h30-15h30 : ML reminder - TP Sentiment analysis with ScikitLearn
+* S48 - 30.11 13h30-15h30  
+* S49 - 07.12 13h30-16h30 (3H) 
+* S50 - 14.12 13h30-16h30 (3H)
 * S51 - 21.12: break
 * S52 - 28.12: break
 * S1 - 04.01  10h-12h: start projects
