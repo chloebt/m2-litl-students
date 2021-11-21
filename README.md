@@ -4,8 +4,8 @@ Contact: chloe.braud@irit.fr
 
 Current schedule:
 * S47 - 23.11 13h30-15h30 : ML reminder - TP Sentiment analysis with ScikitLearn
-  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chloebt/m2-litl-students/blob/main/notebooks/TP1_masterLiTL_2122.ipynb)  
-  * Load the notebook:  https://colab.research.google.com/github/chloebt/m2-litl-students/blob/main/notebooks/TP1_masterLiTL_2122.ipynb
+  * To load the notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chloebt/m2-litl-students/blob/main/notebooks/TP1_masterLiTL_2122.ipynb)  
+  * You need to save it to your google drive (or my git? not sure how it works..)
 * S48 - 30.11 13h30-15h30  
 * S49 - 07.12 13h30-16h30 (3H) 
 * S50 - 14.12 13h30-16h30 (3H)
