@@ -7,8 +7,9 @@ Current schedule:
   * To load the notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chloebt/m2-litl-students/blob/main/notebooks/TP1_masterLiTL_2122.ipynb) 
   * You'll need to save a copy to your google drive (or git? not sure how it works.. but let's try!).
 * S48 - 30.11 13h30-15h30  
- * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chloebt/m2-litl-students/blob/main/notebooks/TP2_masterLiTL_2122.ipynb)   
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chloebt/m2-litl-students/blob/main/notebooks/TP2_masterLiTL_2122.ipynb)   
 * S49 - 07.12 13h30-16h30 (3H) 
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chloebt/m2-litl-students/blob/main/notebooks/TP3_masterLiTL_2122.ipynb)  
 * S50 - 14.12 13h30-16h30 (3H)
 * S51 - 21.12: break
 * S52 - 28.12: break
