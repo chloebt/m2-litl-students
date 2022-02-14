@@ -18,8 +18,10 @@ Current schedule:
   * * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chloebt/m2-litl-students/blob/main/notebooks/TP4_PART1_masterLiTL_2122.ipynb)   
 * [CANCELED] S3 - C7:   18.01  13h-16h (3H)
 * S4 - C8:   25.01  13h-16h (3H) 
-  * * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chloebt/m2-litl-students/blob/main/notebooks/TP4_PART2_masterLiTL_2122.ipynb)  
-* S5 - C9:   01.02  10h-12h  
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chloebt/m2-litl-students/blob/main/notebooks/TP4_PART2_masterLiTL_2122.ipynb)  
+* S5 - C9:   01.02  9h30-12h30
+* S6 - 03.02 13h-15h30
+  * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chloebt/m2-litl-students/blob/main/notebooks/TP5_masterLiTL_2122.ipynb)    
 * S6 - C10: 15.02  10h-12h 
 
 Assignments: 
