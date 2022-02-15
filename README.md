@@ -22,7 +22,8 @@ Current schedule:
 * S5 - C9:   01.02  9h30-12h30
 * S6 - 03.02 13h-15h30
   * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chloebt/m2-litl-students/blob/main/notebooks/TP5_masterLiTL_2122.ipynb)    
-* S6 - C10: 15.02  10h-12h 
+* S6 - C10: 15.02  9h30-12h
+ *   * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chloebt/m2-litl-students/blob/main/notebooks/TP6_masterLiTL_2122.ipynb)     
 
 Assignments: 
 * Code + report 
